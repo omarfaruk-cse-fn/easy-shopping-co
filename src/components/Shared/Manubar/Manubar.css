@@ -1,0 +1,21 @@
+.logo-container{
+    margin-top: 5px;
+    padding: 20px;
+}
+.menu-container{
+    list-style: none;
+    justify-content: end;
+}
+.menu-container li{
+    background-color: lightgrey;
+    border-radius: 8px;
+    margin-top: 5px;
+    text-align: justify;
+    padding: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.menu-container li:hover{
+    background-color: antiquewhite;
+    border-radius: 8px;
+}

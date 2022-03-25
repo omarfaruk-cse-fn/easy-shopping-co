@@ -1,0 +1,20 @@
+.product{
+    border: 2px solid lightgray;
+    border-radius: 8px;
+}
+.product-cart{
+    padding: 5px;
+}
+.product img{
+    padding: 5px;
+    height: 200px;
+    width: 200px;
+}
+.info{
+    margin-top: 6px;
+    padding: 5px;
+    justify-content: start;
+}
+.btn-cart{
+    justify-content: space-around;
+}
